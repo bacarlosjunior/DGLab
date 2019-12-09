@@ -22,6 +22,6 @@ OS dados são armazenados em um banco de dados através do MySql, contendo uma t
 
 4) Hospedagem:
 Para a hospedagem do sistema foi utilizado o servidor gratuito InfinityFree com banco de dados proprio também usando MySql e com a mesma estrutura.
-O link para acesso o sistema é : http://cbajdglab.epizy.com/
+O link para acesso do sistema é : http://cbajdglab.epizy.com/
 Porém se houver algum problema e não for redirecionado para o site, favor tentar http://sistemadglab.epizy.com/.
 
