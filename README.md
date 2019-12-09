@@ -17,11 +17,11 @@ ID, Nome do Paciente, E-mail, Botão para acessar o PDF com o resultado do exame
 
 3) Tecnologias utilizadas:
 
-A atividade foi desenvolvida utilizando as linguagens PHP, HTML e CSS, e a ferramenta DomPDF para a geração do arquivo de PDF.
-OS dados são armazenados em um banco de dados através do MySql, contendo uma tabela usuário com os campos correspondentes ao cadastro e um numero ID autoincrmentavel gerado automaticamente.
+A atividade foi desenvolvida utilizando as linguagens PHP, HTML e CSS e a ferramenta DomPDF para a geração do arquivo de PDF.
+OS dados são armazenados em um banco de dados através do MySql, contendo uma tabela usuário com os campos correspondentes ao cadastro e um numero ID autoincrementavel gerado automaticamente.
 
 4) Hospedagem:
-Para a hospedagem do sistema foi utilizado o servidor gratuito InfinityFree com banco de dados pŕoprio tambem usando MySql e com a mesma estrutura.
-O link para acesso do sistema é : http://cbajdglab.epizy.com/
+Para a hospedagem do sistema foi utilizado o servidor gratuito InfinityFree com banco de dados proprio também usando MySql e com a mesma estrutura.
+O link para acesso o sistema é : http://cbajdglab.epizy.com/
 Porém se houver algum problema e não for redirecionado para o site, favor tentar http://sistemadglab.epizy.com/.
 
