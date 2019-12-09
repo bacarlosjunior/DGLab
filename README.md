@@ -9,10 +9,10 @@ ID, Nome do Paciente, E-mail, Botão para acessar o PDF com o resultado do exame
 
 2) Descrição das funcionalidades:
 	
-	a) Tela de login contém os campos de e-mail e senha com o botão “entrar”, o botão de “Cadastrar” e a logo clicável que redireciona para a página inicial.
-	b) Tela de cadastro possui os campos: CPF (permitido apenas números), Nome (pelo menos dois nomes),E-mail (com formato de texto@…), Senha (no mínimo 8 caracteres), Endereço, CEP (somente números), Cidade e Estado.
-	c) Tela de usuário exibe os dados do cadastro e possui os botões “gerar pdf” e “sair”.
-	d) PDF gerado exibe os dados do usuário e é possível realizar seu download.
+	a) Tela de login contém os campos de e-mail e senha com o botão “entrar”, o botão de “Cadastrar” e a logo clicável que redireciona para a página inicial, contida no arquivo: index.php.
+	b) Tela de cadastro possui os campos: CPF (permitido apenas números), Nome (pelo menos dois nomes),E-mail (com formato de texto@…), Senha (no mínimo 8 caracteres), Endereço, CEP (somente números), Cidade e Estado, contido no arquivo: cadastro.php.
+	c) Tela de usuário exibe os dados do cadastro e possui os botões “gerar pdf” e “sair”, contido no arquivo: detalhe.php.
+	d) PDF gerado exibe os dados do usuário e é possível realizar seu download, contido no arquivo: pdf.php.
 
 
 3) Tecnologias utilizadas:
