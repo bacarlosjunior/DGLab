@@ -32,7 +32,7 @@
 
         <footer>
             <div id="footer_central">
-                <p>ANDES &eacute; uma empresa fict&iacute;cia, usada para o curso PHP Integra&ccedil;&atilde;o com MySQL.</p>
+                 <p>Sistema web desenvolvido como forma de avalição para o processo de estágio DGLab.</p>
             </div>
         </footer>
     </body>
