@@ -21,7 +21,7 @@ ID, Nome do Paciente, E-mail, Botão para acessar o PDF com o resultado do exame
 3) Tecnologias utilizadas:
 
 A atividade foi desenvolvida utilizando as linguagens PHP, HTML e CSS e a ferramenta DomPDF para a geração do arquivo de PDF.
-OS dados são armazenados em um banco de dados através do MySql, contendo uma tabela usuário com os campos correspondentes ao cadastro e um numero ID autoincrementavel gerado automaticamente.
+Os dados são armazenados em um banco de dados através do MySql, contendo uma tabela usuário com os campos correspondentes ao cadastro e um numero ID autoincrementavel gerado automaticamente.
 
 4) Hospedagem:
 
