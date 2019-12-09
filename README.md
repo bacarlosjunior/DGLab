@@ -16,7 +16,9 @@ ID, Nome do Paciente, E-mail, Botão para acessar o PDF com o resultado do exame
 	c) Tela de usuário exibe os dados do cadastro e possui os botões “gerar pdf” e “sair”, contido no arquivo: detalhe.php.
 	
 	d) PDF gerado exibe os dados do usuário e é possível realizar seu download, contido no arquivo: pdf.php.
-
+	
+	e) Logo clicável em todas as telas.
+	
 
 3) Tecnologias utilizadas:
 
