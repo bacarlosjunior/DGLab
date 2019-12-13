@@ -31,5 +31,4 @@ Para a hospedagem do sistema foi utilizado o servidor gratuito InfinityFree com 
 
 O link para acesso do sistema é : http://cbajdglab.epizy.com/
 
-Porém se houver algum problema e não for redirecionado para o site, favor tentar http://sistemadglab.epizy.com/.
 
